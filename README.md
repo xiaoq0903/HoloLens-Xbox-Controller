@@ -2,7 +2,7 @@
 
 ![holoens controller](https://user-images.githubusercontent.com/18353476/29101706-017fa182-7c69-11e7-9a7c-4aa6eaa3d432.jpg)
 
-Instructions for Running in Unity:
+Instructions:
 1)	Pair your Xbox One S Wireless Controller to your HoloLens using the Bluetooth section of HoloLens Settings and following the instructions of your controller.
 2)	Make sure your Unity WSA project has the following capabilities set:
 		InternetClient
