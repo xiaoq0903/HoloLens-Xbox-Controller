@@ -1,7 +1,6 @@
-# Hololens Xbox Controller Plugin
+# HoloLens Xbox Controller Plugin
 
 ![hololens controller](https://user-images.githubusercontent.com/18353476/29101706-017fa182-7c69-11e7-9a7c-4aa6eaa3d432.jpg)
-
 
 
 Requirements:
@@ -37,3 +36,7 @@ Instructions:
 4)	Build and deploy your application to HoloLens.
 
 5)	Note:  these libraries will only handle Input on the HoloLens.  They will not handle input in the Unity Editor.  You will need to handle that separately.
+
+# Unity Build Settings and VR Support for HoloLens
+![virtualrealitysupported](https://user-images.githubusercontent.com/18353476/30458751-d69c5a12-9961-11e7-9c25-fb41c2864dce.png)
+![unitybuildsettingscapabilities](https://user-images.githubusercontent.com/18353476/30458653-597be480-9961-11e7-9345-0bca4db2ba93.png)
