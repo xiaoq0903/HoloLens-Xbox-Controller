@@ -1,6 +1,16 @@
 # Hololens Xbox Controller Plugin
 
-![holoens controller](https://user-images.githubusercontent.com/18353476/29101706-017fa182-7c69-11e7-9a7c-4aa6eaa3d432.jpg)
+![hololens controller](https://user-images.githubusercontent.com/18353476/29101706-017fa182-7c69-11e7-9a7c-4aa6eaa3d432.jpg)
+
+
+
+Requirements:
+
+Windows 10(Creators Update would be best for Mixed Reality).
+
+[Unity](https://unity3d.com/) v5.6.1f1 or later.
+
+[Visual Studio](https://www.visualstudio.com/) 2015 or later.
 
 [Using an Xbox One Controller with Unity on Windows 10](https://ritchielozada.com/2016/01/16/part-11-using-an-xbox-one-controller-with-unity-on-windows-10/)
 
