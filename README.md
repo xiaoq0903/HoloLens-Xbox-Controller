@@ -16,6 +16,10 @@ Requirements:
 
 [Using an Xbox One Controller with Unity on Windows 10](https://ritchielozada.com/2016/01/16/part-11-using-an-xbox-one-controller-with-unity-on-windows-10/)
 
+[Develop Mixed Reality Apps for Holographic Technology](https://www.microsoft.com/en-us/hololens/developers)
+
+[Unity development overview for Windows Mixed Reality Apps](https://developer.microsoft.com/en-us/windows/mixed-reality/unity_development_overview)
+
 Instructions:
 
 1)	Pair your Xbox One S Wireless Controller to your HoloLens using the Bluetooth section of HoloLens Settings and following the instructions of your controller.
