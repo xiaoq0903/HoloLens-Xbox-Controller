@@ -2,6 +2,8 @@
 
 ![hololens controller](https://user-images.githubusercontent.com/18353476/29101706-017fa182-7c69-11e7-9a7c-4aa6eaa3d432.jpg)
 
+![hololens](https://user-images.githubusercontent.com/18353476/38452317-adefc5f0-39f6-11e8-84fd-9dbc2c9d16da.gif)
+
 Requirements:
 
 [HoloLens headset](https://www.microsoft.com/en-us/hololens)
@@ -10,11 +12,13 @@ Requirements:
 
 [Windows 10](https://www.microsoft.com/en-us/software-download/windows10)(Creators Update would be best for Mixed Reality development).
 
-[Unity](https://unity3d.com/) v5.6.1f1 or later.
+[Unity](https://unity3d.com/) v2017.1 or later.
 
 [Visual Studio](https://www.visualstudio.com/) 2015 or later.
 
 [Using an Xbox One Controller with Unity on Windows 10](https://ritchielozada.com/2016/01/16/part-11-using-an-xbox-one-controller-with-unity-on-windows-10/)
+
+[Windows Mixed Reality Development](https://docs.microsoft.com/en-us/windows/mixed-reality/development)
 
 [Develop Mixed Reality Apps for Holographic Technology](https://www.microsoft.com/en-us/hololens/developers)
 
