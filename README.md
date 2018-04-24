@@ -10,7 +10,7 @@ Requirements:
 
 [Xbox One wireless controller](https://www.newegg.com/Product/Product.aspx?Item=N82E16874103563)
 
-[Windows 10](https://www.microsoft.com/en-us/software-download/windows10)(Creators Update would be best for Mixed Reality development).
+[Windows 10](https://www.microsoft.com/en-us/software-download/windows10)(Build 1709).
 
 [Unity](https://unity3d.com/) v2017.1 or later.
 
@@ -20,7 +20,7 @@ Developing for VR, AR, and Mixed Reality:
 
 [Unity for VR and AR](https://unity3d.com/unity/features/multiplatform/vr-ar)
 
-[Using an Xbox One Controller with Unity on Windows 10](https://ritchielozada.com/2016/01/16/part-11-using-an-xbox-one-controller-with-unity-on-windows-10/)
+[Unity's Input Manager for Windows Mixed Reality motion controllers](https://docs.microsoft.com/en-us/windows/mixed-reality/gestures-and-motion-controllers-in-unity)
 
 [Windows Mixed Reality Development](https://docs.microsoft.com/en-us/windows/mixed-reality/development)
 
