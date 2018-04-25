@@ -10,7 +10,7 @@ Requirements:
 
 [Xbox One wireless controller](https://www.newegg.com/Product/Product.aspx?Item=N82E16874103563)
 
-[Windows 10](https://www.microsoft.com/en-us/software-download/windows10)(Build 1709).
+[Windows 10](https://www.microsoft.com/en-us/software-download/windows10)(Build 1709 or later).
 
 [Unity](https://unity3d.com/) v2017.1 or later.
 
