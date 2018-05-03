@@ -16,7 +16,9 @@ Requirements:
 
 [Visual Studio](https://www.visualstudio.com/) 2015 or later.
 
-Developing for VR, AR, and Mixed Reality: 
+# Developing for VR, AR, and Mixed Reality 
+
+[Mixed Reality Install Tools](https://docs.microsoft.com/en-us/windows/mixed-reality/install-the-tools)
 
 [Unity for VR and AR](https://unity3d.com/unity/features/multiplatform/vr-ar)
 
@@ -27,6 +29,8 @@ Developing for VR, AR, and Mixed Reality:
 [Develop Mixed Reality Apps for Holographic Technology](https://www.microsoft.com/en-us/hololens/developers)
 
 [Unity development overview for Windows Mixed Reality Apps](https://developer.microsoft.com/en-us/windows/mixed-reality/unity_development_overview)
+
+[Windows Mixed Reality Developer Forum](https://forums.hololens.com/)
 
 Instructions:
 
