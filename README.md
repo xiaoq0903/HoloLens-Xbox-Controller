@@ -20,17 +20,19 @@ Requirements:
 
 [Mixed Reality Install Tools](https://docs.microsoft.com/en-us/windows/mixed-reality/install-the-tools)
 
+[Windows Dev Center for Mixed Reality](https://developer.microsoft.com/en-us/windows/mixed-reality/)
+
 [Unity for VR and AR](https://unity3d.com/unity/features/multiplatform/vr-ar)
 
 [Unity's Input Manager for Windows Mixed Reality motion controllers](https://docs.microsoft.com/en-us/windows/mixed-reality/gestures-and-motion-controllers-in-unity)
-
-[Windows Mixed Reality Development](https://docs.microsoft.com/en-us/windows/mixed-reality/development)
 
 [Develop Mixed Reality Apps for Holographic Technology](https://www.microsoft.com/en-us/hololens/developers)
 
 [Unity development overview for Windows Mixed Reality Apps](https://developer.microsoft.com/en-us/windows/mixed-reality/unity_development_overview)
 
 [Windows Mixed Reality Developer Forum](https://forums.hololens.com/)
+
+[Windows Mixed Reality Unity Forum](https://forum.unity.com/forums/windows-mixed-reality.102/)
 
 Instructions:
 
