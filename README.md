@@ -12,13 +12,16 @@ Requirements:
 
 [Windows 10](https://www.microsoft.com/en-us/software-download/windows10)(Build 1709 or later).
 
-[Unity](https://unity3d.com/) v2017.1 or later.
+[Unity](https://unity3d.com/) v2017.3 or later.
 
 [Visual Studio](https://www.visualstudio.com/) 2015 or later.
 
 # Developing for VR, AR, and Mixed Reality 
-
 [Mixed Reality Install Tools](https://docs.microsoft.com/en-us/windows/mixed-reality/install-the-tools)
+
+[Microsoft Mixed Reality Toolkit](https://github.com/Microsoft/MixedRealityToolkit)
+
+[Mixed Reality Academy](https://docs.microsoft.com/en-us/windows/mixed-reality/academy)
 
 [Windows Dev Center for Mixed Reality](https://developer.microsoft.com/en-us/windows/mixed-reality/)
 
