@@ -14,7 +14,7 @@ Requirements:
 
 [Unity](https://unity3d.com/) v2017.3 or later.
 
-[Visual Studio](https://www.visualstudio.com/) 2015 or later.
+[Visual Studio 2017](https://www.visualstudio.com/) or later.
 
 # Developing for VR, AR, and Mixed Reality 
 [Mixed Reality Install Tools](https://docs.microsoft.com/en-us/windows/mixed-reality/install-the-tools)
