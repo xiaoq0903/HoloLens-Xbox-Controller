@@ -33,8 +33,6 @@ Requirements:
 
 [Unity development overview for Windows Mixed Reality Apps](https://developer.microsoft.com/en-us/windows/mixed-reality/unity_development_overview)
 
-[HoloLens Sample Apps using Xamarin](https://developer.xamarin.com/samples/urhosharp/HoloLens/)
-
 [Windows Mixed Reality Developer Forum](https://forums.hololens.com/)
 
 [Windows Mixed Reality Unity Forum](https://forum.unity.com/forums/windows-mixed-reality.102/)
